@@ -1,0 +1,62 @@
+/* --------------------------global styles ------------------------------*/
+a{
+    color:black;
+}
+
+/* --------------------------------------------------------*/
+.breadcrumb ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  
+.petshoplogo{
+    width: 200px;
+    height: 100px;
+}
+
+.carousel-title{
+ backdrop-filter: blur(10px);
+    
+}
+
+.navbar-toggler{
+    background-color: lightgrey;
+}
+
+.bg-blue{
+    background-color: #00a4da;
+}
+
+.bg-silver{
+    background-color: #BDBDBD;
+    border-radius: 50px;
+}
+
+.c-pic{
+    width: 100%;
+}
+
+.home-picture{
+    height: 250px; object-fit: cover;
+}
+
+.consultation-container{
+    margin: 0px 100px;
+}
+
+.consultation{
+    height: 300px; background-image: url('images/pexels-hillaryfox-1595390.jpg'); background-size:cover; background-position: 25px;
+}
+
+.herodog{
+    height: 300px; background-image: url('images/Maci\ Sand\ Castle.png'); background-size:cover; background-position: 0px -200px;
+}
+
+.herocat{
+    height: 300px; background-image: url('images/pexels-pixabay-45170.jpg'); background-size:cover; background-position: 0px -200px;
+}
+
+.herofish{
+    height: 300px; background-image: url('images/pexels-francesco-ungaro-3854025.jpg'); background-size:cover; background-position: 0px -200px;
+}
